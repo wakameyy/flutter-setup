@@ -1,0 +1,5 @@
+#PlantUML
+# Preference > Plugins > PlantUML Integration
+
+#Graphviz
+brew install graphviz
