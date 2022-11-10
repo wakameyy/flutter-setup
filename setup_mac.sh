@@ -5,7 +5,7 @@
 echo 'Please execute "sudo softwareupdate --install-rosetta --agree-to-license" .'
 
 # install folfer.
-INSTALL_DIR="${HOME}/development"
+INSTALL_DIR="${HOME}/work"
 
 # create install folder.
 if [ ! -e ${INSTALL_DIR} ]; then
